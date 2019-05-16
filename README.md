@@ -27,7 +27,7 @@ You should do next steps:
 -- Node (with npm): https://nodejs.org/uk/
 -- React app: npm init react-app my-app
 
-1. save project from GitHub to your local folder: https://github.com/lxx14/blog-final-version-
+1. save project from GitHub to your local folder: https://github.com/lxx14/React_Blog_TestTask
 2. open your notepad (for example VS Code) and select folder with project
 3. in terminal you should write: npm install 
 4. for start developing mode: npm start
